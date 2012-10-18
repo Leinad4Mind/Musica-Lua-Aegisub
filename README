@@ -1,0 +1,34 @@
+﻿Música-Lua-Aegisub
+===================
+
+Um simples lua para colocar automaticamente o símbolo musical nas linhas seleccionadas.
+Foi elaborado para auxiliar nos Projectos GoldTugAnime, visto que uma boa parte da animação ocidental
+contém várias músicas, e desta forma, facilita a inserção dos símbolos.
+
+
+Por fazer
+-----------------
+* Nada, mas estarei disposto a melhorar se houver dicas para tal.
+
+
+Como instalar
+--------------
+
+Load Automático
+
+1. Transferir musica.lua
+2. Colocar esse ficheiro na pasta _autoload_ situada dentro da pasta _automation_ que por sua vez está presenta na sua pasta de instalação do aegisub
+
+
+Load Manual
+
+1. Transferir musica.lua e guarde-o onde bem desejar
+2. Com o Aegisub aberto, quando desejar usá-lo terá de clicar em Automatização -> Automatização...
+3. Clicar de seguida em _Adicionar_ e ir ao local onde se encontra o musica.lua
+
+
+Como usar
+---------
+
+Não tem nada que saber. Basta seleccionar as linhas que desejamos colocar o símbolo musical, e de seguida clicar em Automatização -> Notas Musicais
+e todas as linhas seleccionadas irão sofrer com essa modificação.
